@@ -23,7 +23,7 @@
 **На перспективу:** несложно научиться детектировать сразу несколько чашек *разных* цветов и измерять расстояния между ними.
 **Ограничения:** посторонние объекты того же цвета, что и искомый объект будут провоцировать сбои в работе алгоритма. Программа будет периодически "отвлекаться" на них.
 ### Источники, которые очень помогли
-[Детекция объектов по цвету](https://towardsdatascience.com/real-time-object-detection-without-machine-learning-5139b399ee7d)
+* [Детекция объектов по цвету](https://towardsdatascience.com/real-time-object-detection-without-machine-learning-5139b399ee7d)
 
 Динамичное измерение расстояний [1](https://towardsdatascience.com/monitoring-social-distancing-using-ai-c5b81da44c9f?gi=50a5df69723b) и [2](https://towardsdatascience.com/a-social-distancing-detector-using-a-tensorflow-object-detection-model-python-and-opencv-4450a431238)
 
