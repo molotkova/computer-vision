@@ -28,6 +28,7 @@
 Динамичное измерение расстояний [1](https://towardsdatascience.com/monitoring-social-distancing-using-ai-c5b81da44c9f?gi=50a5df69723b) и [2](https://towardsdatascience.com/a-social-distancing-detector-using-a-tensorflow-object-detection-model-python-and-opencv-4450a431238)
 
 Работа с цветом [1](https://www.pyimagesearch.com/2014/08/04/opencv-python-color-detection/) и [2](https://robotclass.ru/tutorials/opencv-color-range-filter/)
+
 [Color picker](https://imagecolorpicker.com/)
 
 [Палитра HSV в OpenCV](https://answers.opencv.org/question/184711/select-hsv-hue-from-30-to-30-in-python/)
